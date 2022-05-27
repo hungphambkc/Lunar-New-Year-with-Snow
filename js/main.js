@@ -1,5 +1,5 @@
 /*Lấy thời gian tết âm lịch (mily giây)*/
-var tetAmLich = new Date(2023, 1, 1, 0, 0, 0).getTime();
+var tetAmLich = new Date(2023, 1, 11, 0, 0, 0).getTime();
  
 function newYear() {
     /*Lấy thời gian ngày hiện tại (mily giây) */
